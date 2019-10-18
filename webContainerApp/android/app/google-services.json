@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "630638495544",
+    "firebase_url": "https://rnwcontainer.firebaseio.com",
+    "project_id": "rnwcontainer",
+    "storage_bucket": "rnwcontainer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630638495544:android:800c4aa322974fd4c6e3cd",
+        "android_client_info": {
+          "package_name": "com.webcontainerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630638495544-fsmaf4rj9751e4f5uej28mefmfe54q57.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_CiZLhEKMnFVKh0ur6cXhO3BuusGW9-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "630638495544-fsmaf4rj9751e4f5uej28mefmfe54q57.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
